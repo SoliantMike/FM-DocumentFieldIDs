@@ -16,3 +16,4 @@ Instructions
 
     4. Run the "Refresh Field List" script. If there were errors detected, the red button will show a list of descrepancies. 
 
+This allows you to identify and fix potential problems before pushing updates to production.
